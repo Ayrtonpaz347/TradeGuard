@@ -1,0 +1,13 @@
+{
+  "name": "tradeguard",
+  "version": "0.1.0",
+  "private": true,
+  "description": "TradeGuard - funded account copier dashboard (safe prototype)",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
